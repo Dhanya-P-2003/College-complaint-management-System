@@ -9,8 +9,8 @@ Home Page
 ![2](https://github.com/Dhanya-P-2003/College-complaint-management-System/assets/115889410/02c4ba2c-13f7-41e8-9458-6d4286815cf8)
 Sign in Page
 
-<img width="960" alt="Screenshot 2024-03-29 102812" src="https://github.com/Dhanya-P-2003/College-complaint-management-System/assets/115889410/097ed03f-345b-4e01-b25c-34a731374016">
+<img width="960" alt="Screenshot 2024-03-29 102812" src="https://github.com/Dhanya-P-2003/College-complaint-management-System/assets/115889410/818babab-97bd-4fd7-9576-5af90f6589a6">
 User details Page
 
-<img width="960" alt="Screenshot 2024-03-29 102844" src="https://github.com/Dhanya-P-2003/College-complaint-management-System/assets/115889410/cef11af8-9a68-480d-ac14-224be8c6a760">
+<img width="960" alt="Screenshot 2024-03-29 102844" src="https://github.com/Dhanya-P-2003/College-complaint-management-System/assets/115889410/da46e652-7dfa-492a-abf0-d119e31c2918">
 Complaint Register Page
